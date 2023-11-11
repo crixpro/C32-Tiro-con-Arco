@@ -1,1 +1,1 @@
-# C32-Tiro-con-Arco
+# Plantilla del proyecto 26
